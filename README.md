@@ -1,6 +1,6 @@
 It's a quite simple Black Jack Game written in C.
 
-It's a homwwork of the author as a freshman.
+It's a homework of the author as a freshman.
 
 Users can play it in console or terminal.
 
